@@ -1,2 +1,1 @@
-# BancoDeDados
-Este é um repositório da aula de Banco de Dados,onde mostro os meus comandos feitos no SQLDeveloper
+REPOSITÓRO DA AULA DE BANCO DE DADOS
